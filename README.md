@@ -7,6 +7,7 @@ I'm passionate about Data Science, Data Engineering, and Machine Learning, with 
 ### 🔭 What I'm Working On
 
 - **TheLook E-Commerce Analysis:** Designing and deploying a PostgreSQL database for e-commerce data, analyzing sales trends, and visualizing business insights with Python.
+- **FMCG Risk & Compliance Audit:** Auditing simulated FMCG data to identify promotional revenue leakage, quantify compliance failures, and develop a proactive risk-scoring model.
 - **Refactoring Legacy Projects:** Actively refactoring and improving documentation/structure of past learning projects to enhance code quality and maintainability.
 
 ---
