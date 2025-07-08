@@ -37,7 +37,7 @@ I'm passionate about Data Science, Data Engineering, and Machine Learning, with 
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Seaborn-5c7da2?style=flat-square&logo=seaborn&logoColor=white" /></a>
 </p>
 
----
+<!-- ---
 
 ### 🚀 Featured Projects
 
@@ -47,7 +47,7 @@ I'm passionate about Data Science, Data Engineering, and Machine Learning, with 
 | **[Indonesian Tweet Classification (IndoBERT)](https://github.com/Azvier/indonesian-tweet-classification-indobert)** | Comparative study on multi-class Indonesian tweet classification using fine-tuned IndoBERT and generative LLMs. IndoBERT pipeline is completed, while LLM experiments are still ongoing. *(Refactoring in progress)* |
 | **[CNN for Rock-Paper-Scissors Gesture](https://github.com/Azvier/cnn-rock-paper-scissors)**           | This project showcases the development of a Convolutional Neural Network (CNN) to classify hand gestures for the classic game of Rock, Paper, Scissors. It explores various CNN architectures, utilizes data augmentation, and provides interactive prediction. |
 | **[Automatic Number Plate Recognition (ANPR)](https://github.com/Azvier/anpr-system)**                 | Built an ANPR system using Python and OpenCV to detect, isolate, and extract license plate text from images with Tesseract OCR. *(Note: Refactoring in progress)*       |
-| **[Solar Panel Efficiency Analysis](https://github.com/9iselia/pv-efficiency-analysis)**               | Performed extensive EDA and built a Random Forest model to predict solar panel efficiency, achieving a low RMSE of 0.0128. *(Collaborative project with [@9iselia](https://github.com/9iselia). Note: Refactoring in progress)*             |
+| **[Solar Panel Efficiency Analysis](https://github.com/9iselia/pv-efficiency-analysis)**               | Performed extensive EDA and built a Random Forest model to predict solar panel efficiency, achieving a low RMSE of 0.0128. *(Collaborative project with [@9iselia](https://github.com/9iselia). Note: Refactoring in progress)*             | -->
 
 ---
 
